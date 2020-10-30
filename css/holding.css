@@ -536,6 +536,8 @@ body{
         border-radius: 0;
         padding: 0 !important;
         background-color: #fff;
+        top: 0%;
+        position: fixed;
     }
 
     .bg-custom {
